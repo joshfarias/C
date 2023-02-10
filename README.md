@@ -1,2 +1,2 @@
 # C
-Repo for C programming projects
+Repo for C programming projects.
